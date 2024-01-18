@@ -2,9 +2,9 @@
 
 use App\Http\Controllers\web\MovimentacaoController;
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\Web\PJController;
-use App\Http\Controllers\Web\TablesController;
-use App\Http\Controllers\Web\OrcController;
+use App\Http\Controllers\web\PJController;
+use App\Http\Controllers\web\TablesController;
+use App\Http\Controllers\web\OrcController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
